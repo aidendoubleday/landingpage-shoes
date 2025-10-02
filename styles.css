@@ -1,3 +1,7 @@
+* {
+    margin: 0px;
+}
+
 body {
     background-color: rgb(28, 28, 28);
     color: whitesmoke;
@@ -7,10 +11,15 @@ body {
 .header {
     background-color: red;
     color: whitesmoke;
+    padding: 20px;
 }
 
 .header h2 {
     font-size: 30px;
+}
+
+.nav a {
+    color: whitesmoke;
 }
 
 .nav a {
